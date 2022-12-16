@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-image: url(../src/assets/bg.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+////////// SECURITY //////////////////////////////////
+.corpp h2{
+  font-size: x-large;
+  color: white;
+justify-content: center;
+}
+.corpp{
+display: flex;
+text-align: center;
+font-size: x-large;
+width: 90%;
+justify-content: center;
+}
+
+.left{
+  text-align: left;
+  padding-left: 5%;
+}
+.left img{
+  text-align: left;
+  width: 60%;
+  height: 100%;
+}
+.right{
+  text-align: right;
+  width: 40%;
+}
+////////// NAV//////////////////////////////////////
+h1{
+  color: white;
+}
+
+.img:hover
+{
+    background-color: white;
+    padding: 2% 2% 2%;
+}
+.div-link
+button:hover,
+.last-link
+button:hover
+{
+    background-color: grey;
+    padding: 5% 5% 5%;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover,
+.a:hover{
+    background-color: grey;
+    padding: 1px 1px 1px;
+    
+}
+
+.a{
+  padding-left: 3%;
+
+}
+.links, p{
+font-size: x-large;
+color: white;
+text-decoration: none;
+padding-left: 1%;
+}
+.samp{
+font-size: xx-large;
+text-shadow: 2px 2px 2px black;
+}
+.nav, Link{
+align-content: center;
+font-size: x-large;
+margin-top: 0;  
+text-decoration: none;
+color: white;
+display: flex;
+width: 95%;
+justify-content: center;
+}
+.user{
+padding-top: 15%;
+}
+/////////////////////HEADER//////////////////////////
+.img1{
+  width: 75%;
+  height: 50%;
+  text-align: center;
+}
+///////////////////////// WEBSITE ////////////////////////////
+h1{
+  font-size: 4rem;
+}
+
+.allcont{
+  width: 85%;
+margin-left: 7% ;
+}
+
+.img{
+  width: 27%;
+  height: 27%;
+  text-align: center;
+  padding-left: 3%;
+  padding-bottom: 3%;
+}
+@media (max-width: 768px){
+  .nav {
+    font-size: large;
+    display:block;
+    text-align: center;
+  }
+}
