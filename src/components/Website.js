@@ -36,7 +36,7 @@ function Website(props) {
                 <img  className='img' alt='img' src={humble} />
             </a>
 
-            <a href="/">
+            <a href="https://coltytemple.netlify.app/">
                 <img  className='img' alt='img' src={colty} />
             </a>
 
