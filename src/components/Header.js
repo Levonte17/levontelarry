@@ -1,11 +1,11 @@
-import header from '../assets/header.jpg'
+import headerr from '../assets/headerr.png'
 
 
 function Header(props) {
     return(
-        <div>
+        <div className='header'>
         <h1>
-            <img className='img1' src={header} alt='img' />
+            <img className='img1' src={headerr} alt='img' />
         </h1>
         </div>
     )

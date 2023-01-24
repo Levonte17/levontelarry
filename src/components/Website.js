@@ -13,7 +13,7 @@ function Website(props) {
     return(
         <div className="allcont">
     <h1>
-        WEBSITES
+        Portfolio
     </h1>
             
     <a href="https://digital-investors-hub.netlify.app/">

@@ -4,11 +4,11 @@ function About(props) {
     return(
         <div className="about">
 
-        <h1>WHO IS LE'VONTE LARRY</h1>
+        <h1>MEET LE'VONTE LARRY</h1>
         <p>
             Expert Software Engineer combined with Cyber Security and building business relationships.
         <br/>
-            Consistently, I discover new engineering solutions that resolve issues businesses may have.
+            I Consistently discover new engineering solutions that resolve issues businesses may have.
         <br/>
             I am invested in building top design also implimenting the neccessary security controls.
         <br/>
@@ -16,7 +16,7 @@ function About(props) {
         <br/>
             I am able to consistantly contribute to business success and build long term relationships.
         <br/>
-            Because of my digital marketing skills, I have the ability to strengthen/build and effectively
+            Additionally, because of my digital marketing skills, I have the ability to strengthen/build and effectively
         <br/>
             connect with potential customers and building their trust prior to business.
 
